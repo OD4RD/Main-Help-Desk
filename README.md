@@ -12,6 +12,7 @@ The OD4RD project builds on the specific Orphanet expertise, and on its organisa
 3.	To contribute at supporting evidence-based decision-making in the frame of the European strategy around ERNs, by supporting the exploitation of reference corpus of data and information on RD.
 
 * OD4RD National hub teams: Austria, Belgium, Czech Republic, Finland, Germany, Italy, Netherlands, Norway, Poland, Portugal, Slovenia, Spain, Sweden and Switzerland
+* OD4RD2 coordination: Germany and Sweden
 * Orphanet coordinating team: France 
 
 @MCecile-US14 Orphanet Nomenclature manager + scientific coordination of OD4RD National Hubs
@@ -25,8 +26,6 @@ The OD4RD project builds on the specific Orphanet expertise, and on its organisa
 @davidlagorce Orphanet IT + data science manager
 
 @JTorphanet Orphanet Nomenclature/medical terminologies and alignments manager 
-
-@mutaz-amin Orphanet Nomenclature + gene manager
 
 @moi-epiUS14 Orphanet epidemiology manager 
 
