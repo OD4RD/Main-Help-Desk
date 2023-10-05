@@ -21,7 +21,7 @@ The OD4RD(2) project builds on the specific Orphanet expertise, and on its organ
 
 @sylmaiOR Orphanet international coordinator
 
-@caterina-lucano-orphanet Orphanet disease team leader
+@caterina-lucano-orphanet Orphanet disease team leader + classification manager
 
 @davidlagorce Orphanet IT + data science manager
 
