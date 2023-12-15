@@ -34,6 +34,8 @@ The OD4RD(2) project builds on the specific Orphanet expertise, and on its organ
 @carolina-f Orphanet RD clinical signs manager
 
 @Orphanet-AysegulSenol Orphanet Nomenclature and RD definitions manager
+
+@Mickael-Orphanet Orphanet Nomenclature and gene manager
   
  <p><h3><i><strong>Questions/Requests</strong></i></h3></p>
    <p align= "justify">Our OD4RD Github repository is dedicated to treat issues related to ORPHAcoding, especially to nomenclature content and implementation in systems. Please post issues at our <a href="https://github.com/OD4RD/Main-Help-Desk/issues" target="_blank" rel="noopener noreferrer">github tracker</a>.
