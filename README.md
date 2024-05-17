@@ -25,8 +25,6 @@ The OD4RD(2) project builds on the specific Orphanet expertise, and on its organ
 
 @davidlagorce Orphanet IT + data science manager
 
-@JTorphanet Orphanet Nomenclature/medical terminologies and alignments manager 
-
 @moi-epiUS14 Orphanet epidemiology manager 
 
 @Orphanet-MartaFructuoso Orphanet Nomenclature + ERN collaborations manager
