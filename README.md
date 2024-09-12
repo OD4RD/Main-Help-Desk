@@ -15,19 +15,19 @@ The OD4RD(2) project builds on the specific Orphanet expertise, and on its organ
 * OD4RD2 National Hub coordination: Germany and Sweden
 * Orphanet coordinating team: France 
 
-@MCecile-US14 Orphanet Nomenclature manager + scientific coordination of OD4RD National Hubs
+@MCecile-US14 Orphanet Nomenclature manager and OD4RD(2) scientific coordinator 
 
-@Orphanet Orphanet deputy director + IT team leader
+@Orphanet Orphanet deputy director and IT team leader
 
 @sylmaiOR Orphanet international coordinator
 
-@caterina-lucano-orphanet Orphanet disease team leader + classification manager
+@caterina-lucano-orphanet Orphanet disease team leader and classification manager
 
-@davidlagorce Orphanet IT + data science manager
+@davidlagorce Orphanet IT and data science manager
 
-@moi-epiUS14 Orphanet epidemiology manager 
+@Seed-Orphanet Orphanet Nomenclature and Terminology alignments manager
 
-@Orphanet-MartaFructuoso Orphanet Nomenclature + ERN collaborations manager
+@Orphanet-MartaFructuoso Orphanet Nomenclature and ERN collaborations manager
 
 @carolina-f Orphanet RD clinical signs manager
 
