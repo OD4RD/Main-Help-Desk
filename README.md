@@ -15,7 +15,7 @@ The OD4RD(2) project builds on the specific Orphanet expertise, and on its organ
 * OD4RD2 National Hub coordination: Germany and Sweden
 * Orphanet coordinating team: France 
 
-@MCecile-US14 Orphanet Nomenclature manager and OD4RD(2) scientific coordinator 
+@Riddhi Orphanet Nomenclature manager and OD4RD(2) scientific coordinator 
 
 @Orphanet Orphanet deputy director and IT team leader
 
