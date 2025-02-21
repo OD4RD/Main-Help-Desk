@@ -15,15 +15,17 @@ The OD4RD(2) project builds on the specific Orphanet expertise, and on its organ
 * OD4RD2 National Hub coordination: Germany and Sweden
 * Orphanet coordinating team: France 
 
-@Riddhi Orphanet Nomenclature manager and OD4RD(2) scientific coordinator 
-
 @Orphanet Orphanet deputy director and IT team leader
 
 @sylmaiOR Orphanet international coordinator
 
+@davidlagorce Orphanet IT and data science manager
+
 @caterina-lucano-orphanet Orphanet disease team leader and classification manager
 
 @davidlagorce Orphanet IT and data science manager
+
+@Riddhi-orphanet Orphanet Nomenclature manager and OD4RD(2) scientific coordinator
 
 @Seed-Orphanet Orphanet Nomenclature and Terminology alignments manager
 
@@ -34,7 +36,11 @@ The OD4RD(2) project builds on the specific Orphanet expertise, and on its organ
 @Orphanet-AysegulSenol Orphanet Nomenclature and RD definitions manager
 
 @Mickael-Orphanet Orphanet Nomenclature and gene manager
-  
+
+@akukava- Orphanet epidemiology manager
+
+@MarianaTannoury- Orphanet intellectual disability manager
+
  <p><h3><i><strong>Questions/Requests</strong></i></h3></p>
    <p align= "justify">Our OD4RD Github repository is dedicated to treat issues related to ORPHAcoding, especially to nomenclature content and implementation in systems. Please post issues at our <a href="https://github.com/OD4RD/Main-Help-Desk/issues" target="_blank" rel="noopener noreferrer">github tracker</a>.
   <p>For standardized reference Orphanet answers please check <a href="https://github.com/OD4RD/Main-Help-Desk/wiki" target="_blank" rel="noopener noreferrer">FAQ</a> page.</p>
