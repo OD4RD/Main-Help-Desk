@@ -66,8 +66,5 @@ The OD4RD(2) project builds on the specific Orphanet expertise, and on its organ
 
 @MarianaTannoury- Orphanet intellectual disability manager
 
- <p><h3><i><strong>Questions/Requests</strong></i></h3></p>
-   <p align= "justify">Our OD4RD Github repository is dedicated to treat issues related to ORPHAcoding, especially to nomenclature content and implementation in systems. Please post issues at our <a href="https://github.com/OD4RD/Main-Help-Desk/issues" target="_blank" rel="noopener noreferrer">github tracker</a>.
-  <p>For standardized reference Orphanet answers please check <a href="https://github.com/OD4RD/Main-Help-Desk/wiki" target="_blank" rel="noopener noreferrer">FAQ</a> page.</p>
-
-
+DISCLAIMER Co-Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or HADEA. Neither the European Union nor the granting authority can be held responsible for them .
+ 
