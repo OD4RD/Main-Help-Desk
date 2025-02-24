@@ -1,4 +1,4 @@
-# ORPHANET Main-Help-Desk
+# ORPHAcoding Main-Help-Desk by ORPHANET
 
 This helpdesk, https://github.com/OD4RD/Main-Help-Desk, is dedicated to answering questions related to the Orphanet nomenclature content and/or the implementation of ORPHAcodes in Health Information Systems or other systems. This is the official Helpdesk for ORPHAcoding, developed and maintained by Orphanet.
 
@@ -12,11 +12,11 @@ You can also check other issues to see if you're not the only one with this prob
 
 To post issues:
 
-Create an account on GitHub: https://github.com/
-Create your issue on https://github.com/OD4RD/Main-Help-Desk/issues by clicking the green “New issue” button in the upper right corner of the page.
-Once your issue is created, please remember to click on “Assignees” (on the right) and select the relevant Orphanet Nomenclature manager and OD4RD(2) scientific coordinator (see below for the name of the current manager), who will then forward your queries to the respective person in the team.
-Click "Create" (at the bottom right).
-You will be notified when your issue is being addressed.
+1. Create an account on GitHub: https://github.com/.
+2. By clicking the green “New issue” button in the upper right corner of the page, create your issue on https://github.com/OD4RD/Main-Help-Desk/issues. 
+3. Once your issue is created, please remember to click on “Assignees” (on the right).
+4. And select the relevant Orphanet Nomenclature National hub manager or OD4RD(2) National hub scientific coordinator (see below for the name of the current manager), who will       then forward your queries to the respective person in the team.
+5. Click "Create" (at the bottom right) and You will be notified when your issue is being addressed.
 
 
 * This online ticketing system allows requests & feedback from local users to be stored, tracked and made available to others interested users. Also, complex demands received by the Orphanet Nomenclature National Hubs can be easily streamlined to the Orphanet Coordinating team. Regular meetings between the Orphanet Coordinating team and the Orphanet Nomenclature National Hubs are held in order to discuss complex demands, to share best practices and find standard solutions to common problems.
