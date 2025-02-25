@@ -19,15 +19,15 @@ To post issues:
 5. Click "Create" (at the bottom right) and You will be notified when your issue is being addressed.
 
 
-* This online ticketing system allows requests & feedback from local users to be stored, tracked and made available to others interested users. Also, complex demands received by the Orphanet Nomenclature National Hubs can be easily streamlined to the Orphanet Coordinating team. Regular meetings between the Orphanet Coordinating team and the Orphanet Nomenclature National Hubs are held in order to discuss complex demands, to share best practices and find standard solutions to common problems.
+*This online ticketing system allows requests & feedback from local users to be stored, tracked and made available to others interested users. Also, complex demands received by the Orphanet Nomenclature National Hubs can be easily streamlined to the Orphanet Coordinating team. Regular meetings between the Orphanet Coordinating team and the Orphanet Nomenclature National Hubs are held in order to discuss complex demands, to share best practices and find standard solutions to common problems.
  
 
 
 **To provide a sustainable and homogeneous, standardised support, a ‘Questions and Answers’ section within the GitHub has been developed based on users’questions. It provides standardised and generalised answers among 10 main topics: alignments with other terminologies, Good practice guidelines on Orphanet Nomenclature, education and communication, epidemiology of RD, ORPHAcodes and nomenclature, Orphanet classification, Orphanet tools, Technical issues & Guidance documents for ORPHAcoding implementation and exploitation.  For standardized reference Orphanet answers please check the FAQ page https://github.com/OD4RD/Main-Help-Desk/wiki It is open access to any end users.  
 
-<p><h3><i><strong> About OD4RD project</strong></i></h3></p> https://od4rd.eu
+<p><h3><i><strong> ***About OD4RD project</strong></i></h3></p> https://od4rd.eu
 
-* OD4RD(2) project generally aims to advance the **implementation of ORPHAcodes** in hospitals hosting the European Reference Networks (ERNs). 
+OD4RD(2) project generally aims to advance the **implementation of ORPHAcodes** in hospitals hosting the European Reference Networks (ERNs). 
 
 The OD4RD(2) project builds on the specific Orphanet expertise, and on its organisation as a long-lasting, well-established network, to fullfil the following general objectives:
 1.	To contribute to the generation of standardised, interoperable data on RD diagnosis for primary and secondary use, by the maintenance and the support to the implementation of the Orphanet nomenclature of RD.
