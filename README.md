@@ -36,35 +36,44 @@ The OD4RD(2) project builds on the specific Orphanet expertise, and on its organ
 
 3.	To contribute at supporting evidence-based decision-making in the frame of the European strategy around ERNs, by supporting the exploitation of reference corpus of data and information on RD.
 
-* OD4RD(2) National Hub teams: Austria, Belgium, Czech Republic, Estonia, Finland, Germany, Ireland, Italy, Latvia, Lithuania, Netherlands, Norway, Poland, Portugal, Romania, Slovenia, Spain, Sweden and Switzerland
+* OD4RD(2) National Hub teams: Austria, Belgium, Czech Republic, Estonia, Finland, Germany, Ireland, Italy, Latvia, Lithuania, Netherlands, Norway, Poland, Portugal, Romania, Slovenia, Spain, Sweden and Switzerland (please see below for their details)
 * OD4RD2 National Hub coordination: Germany and Sweden
-* Orphanet coordinating team: France 
+* Orphanet coordinating team: France
+* For all your queries, please tag your respective National helpdesk from below and also
+  current Orphanet Nomenclature manager and OD4RD(2) scientific coordinator @Riddhi-orphanet
 
-@Orphanet Orphanet deputy director and IT team leader
+  National help desk:
 
-@sylmaiOR Orphanet international coordinator
+@uunter98: Orphanet-Austria
 
-@davidlagorce Orphanet IT and data science manager
+@Orphabe: Orphanet-Belgium
 
-@caterina-lucano-orphanet Orphanet disease team leader and classification manager
+@OrphanetDE: Orphanet-Germany
 
-@davidlagorce Orphanet IT and data science manager
+@OrphanetIRL: Orphanet-Ireland
 
-@Riddhi-orphanet Orphanet Nomenclature manager and OD4RD(2) scientific coordinator
+@Orphanet-Italia: Orphanet-Italy
 
-@Seed-Orphanet Orphanet Nomenclature and Terminology alignments manager
+@Lithuanian-team : Orphanet-Lithunia
 
-@Orphanet-MartaFructuoso Orphanet Nomenclature and ERN collaborations manager
+@OrphanetNL: Orphanet-Netherlands
 
-@carolina-f Orphanet RD clinical signs manager
+@LeneMartinsen,@Linngb: Orphanet-Norway
 
-@Orphanet-AysegulSenol Orphanet Nomenclature and RD definitions manager
+@AMPilarczyk-PL: Orphanet-Poland
 
-@Mickael-Orphanet Orphanet Nomenclature and gene manager
+@Orphanet-PT: Orphanet-Portugal
 
-@akukava- Orphanet epidemiology manager
+@Orphanet-ES: Orphanet-Spain
 
-@MarianaTannoury- Orphanet intellectual disability manager
+@OrphanetSweden: Orphanet-Sweden
+
+@OrphanetSwitzerland: Orphanet-Switzerland
+
+
+
+
+
 
 DISCLAIMER Co-Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or HADEA. Neither the European Union nor the granting authority can be held responsible for them .
  
