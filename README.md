@@ -44,7 +44,7 @@ The OD4RD(2) project builds on the specific Orphanet expertise, and on its organ
 
   National help desk:
 
-@uunter98: Orphanet-Austria
+@OrphanetAustria: Orphanet-Austria
 
 @Orphabe: Orphanet-Belgium
 
